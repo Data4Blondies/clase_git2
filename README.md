@@ -1,6 +1,6 @@
 # 📚 Clase de Git: Conceptos Básicos y Prácticas Avanzadas
 
-## 📝 1. Introducción a la Clase
+## 📝 1. Introducción a la Clase:
 
 En esta clase, repasaremos los conceptos básicos de Git, una herramienta esencial para el control de versiones en el desarrollo de software. Aprenderemos cómo Git puede ayudarnos a llevar un seguimiento de los cambios en nuestro código y colaborar de manera eficiente con otros desarrolladores. Aquí están los temas que cubriremos:
 
